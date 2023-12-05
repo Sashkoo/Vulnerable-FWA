@@ -5,6 +5,7 @@ pip install flask
 Run on kali linux or another linux dist
 
 python3 vulnerable-flask-app.py
+
 ...
 
 ### Proof of Concept
